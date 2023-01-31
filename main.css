@@ -1,0 +1,25 @@
+p {
+	color: rgb(0, 0, 0);
+	font-size: 30px;
+	}
+h1 {
+	color: rgb(255, 0, 0);
+	font-size: 60px;
+	}
+a {
+	color: rgba(4, 241, 16, 0.938);
+	font-size: 100px;
+	}
+ol{
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	}
+ul	{
+		color: rgb(0, 0, 0);
+		font-size: 20px;
+		}
+body
+	{
+	margin-left: 1cm;
+	background-color: rgb(192, 229, 253);
+	}
